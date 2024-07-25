@@ -105,6 +105,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FNCBOBMK
 
+[Parameter1]
+Name=NameProject
+Value=I2C Shield
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
