@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [I2C_Shield.PrjPcb]
+   Generated File[I2C_Shield.TXT]
+   Generated File[I2C_Shield.LDP]
+   Generated File[I2C_Shield.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 18:28:46 On 5.08.2024
