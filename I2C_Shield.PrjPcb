@@ -139,99 +139,84 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Free Documents\NC Drill\I2C_Shield.DRR
-DItemRevisionGUID=
+[ProjectVariant1]
+UniqueID=8698D193-C71F-445C-A92A-27F1A16AD28B
+Description=I2C_Shield_No_PullupResistor
+AllowFabrication=0
+ParameterCount=0
+VariationCount=1
+Variation1=Designator=R1|UniqueId=\ZXHPRDNM|Kind=1|AlternatePart= 
+ParamVariationCount=0
 
-[GeneratedDocument2]
+[GeneratedDocument1]
 DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument3]
-DocumentPath=Project Outputs for Free Documents\Gerber\I2C_Shield.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument4]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.GD1
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.GG1
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.GPB
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.GPT
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument17]
-DocumentPath=Project Outputs for Free Documents\NC Drill\I2C_Shield.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument18]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument19]
-DocumentPath=Project Outputs for Free Documents\Gerber\I2C_Shield.REP
-DItemRevisionGUID=
-
-[GeneratedDocument20]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.REP
 DItemRevisionGUID=
 
-[GeneratedDocument21]
-DocumentPath=Project Outputs for Free Documents\Gerber\I2C_Shield.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument22]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument23]
-DocumentPath=Project Outputs for Free Documents\NC Drill\I2C_Shield.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument24]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.TXT
 DItemRevisionGUID=
 
@@ -840,36 +825,6 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=Ansoft Neutral
-OutputName10=Ansoft Neutral (AutoPCB)
-OutputDocumentPath10=
-OutputVariantName10=
-OutputDefault10=0
-OutputType11=HyperLynx
-OutputName11=HyperLynx (AutoPCB)
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
-OutputType12=Orcad v7 Capture Design
-OutputName12=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=P-CAD ASCII
-OutputName13=P-CAD ASCII (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=P-CAD V16 Schematic Design
-OutputName14=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=SiSoft
-OutputName15=SiSoft (AutoPCB)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
