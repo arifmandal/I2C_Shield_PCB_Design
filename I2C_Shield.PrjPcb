@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for I2C_Shield
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -139,6 +139,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document7]
+DocumentPath=I2C_Shield_Job.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=8698D193-C71F-445C-A92A-27F1A16AD28B
 Description=I2C_Shield_No_PullupResistor
@@ -149,75 +166,159 @@ Variation1=Designator=R1|UniqueId=\ZXHPRDNM|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.DRR
+DocumentPath=Project Outputs for Free Documents\NC Drill\I2C_Shield.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.EXTREP
+DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.GBL
+DocumentPath=Project Outputs for I2C_Shield\NC Drill\I2C_Shield.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.GBO
+DocumentPath=Project Outputs for Free Documents\Gerber\I2C_Shield.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.GBS
+DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.GD1
+DocumentPath=Project Outputs for Free Documents\Gerber\I2C_Shield.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.GG1
+DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.GKO
+DocumentPath=Project Outputs for Free Documents\Gerber\I2C_Shield.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.GPB
+DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.GPT
+DocumentPath=Project Outputs for Free Documents\Gerber\I2C_Shield.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.GTL
+DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.GTO
+DocumentPath=Project Outputs for Free Documents\Gerber\I2C_Shield.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.GTP
+DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.GTS
+DocumentPath=Project Outputs for Free Documents\Gerber\I2C_Shield.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.LDP
+DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.REP
+DocumentPath=Project Outputs for Free Documents\Gerber\I2C_Shield.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.RUL
+DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument18]
+DocumentPath=Project Outputs for Free Documents\Gerber\I2C_Shield.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for Free Documents\Gerber\I2C_Shield.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for Free Documents\Gerber\I2C_Shield.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for Free Documents\Gerber\I2C_Shield.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for Free Documents\Gerber\I2C_Shield.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for Free Documents\Gerber\I2C_Shield.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for Free Documents\NC Drill\I2C_Shield.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for I2C_Shield\NC Drill\I2C_Shield.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for Free Documents\Gerber\I2C_Shield.REP
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.REP
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for Free Documents\Gerber\I2C_Shield.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for Free Documents\NC Drill\I2C_Shield.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument38]
 DocumentPath=Project Outputs for I2C_Shield\I2C_Shield.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for I2C_Shield\NC Drill\I2C_Shield.TXT
 DItemRevisionGUID=
 
 [Parameter1]
@@ -233,6 +334,45 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_SmartPDF]
+AutoOpenFile=-1
+AutoOpenOutJob=-1
+
+[Generic_SmartPDFSettings]
+ProjectMode=0
+ZoomPrecision=50
+AddNetsInformation=-1
+AddNetPins=-1
+AddNetNetLabels=-1
+AddNetPorts=-1
+ShowComponentParameters=-1
+GlobalBookmarks=0
+ExportBOM=0
+TemplateFilename=Board Stack Report.XLT
+TemplateStoreRelative=-1
+PCB_PrintColor=1
+SCH_PrintColor=0
+PrintQuality=-3
+SCH_ShowNoErc=-1
+SCH_ShowParameter=-1
+SCH_ShowProbes=-1
+SCH_ShowBlankets=-1
+SCH_NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle
+SCH_ShowNote=-1
+SCH_ShowNoteCollapsed=-1
+SCH_ExpandLogicalToPhysical=-1
+SCH_VariantName=[No Variations]
+SCH_ExpandComponentDesignators=-1
+SCH_ExpandNetlabels=0
+SCH_ExpandPorts=0
+SCH_ExpandSheetNumber=0
+SCH_ExpandDocumentNumber=0
+SCH_HasExpandLogicalToPhysicalSheets=-1
+SaveSettingsToOutJob=-1
+
+[Generic_EDE]
+OutputDir=Project Outputs for I2C_Shield
 
 [OutputGroup1]
 Name=Netlist Outputs
