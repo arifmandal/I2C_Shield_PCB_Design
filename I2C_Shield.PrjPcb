@@ -1356,11 +1356,11 @@ UpdateVariants=1
 PartTypes=0
 
 [NetInfos]
-Net1=NetName=PB9/SDA|NetColor=clYellow
+Net1=NetName=GND|NetColor=$0000BE00
 Net2=NetName=+3V3|NetColor=$006E6EFF
 Net3=NetName=NRST|NetColor=$00FFFF6E
 Net4=NetName=PB8/SCL|NetColor=$00FF6EFF
-Net5=NetName=GND|NetColor=$0000BE00
+Net5=NetName=PB9/SDA|NetColor=clYellow
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
