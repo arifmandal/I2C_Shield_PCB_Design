@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for I2C_Shield
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -381,7 +381,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for I2C_Shield
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1361,11 +1361,11 @@ PartTypes=0
 
 [NetInfos]
 Net1=NetName=PB9/SDA|NetColor=clYellow
-Net2=NetName=VS|NetColor=$006E6EFF
+Net2=NetName=GND|NetColor=$0000BE00
 Net3=NetName=+3V3|NetColor=$006E6EFF
 Net4=NetName=NRST|NetColor=$00FFFF6E
 Net5=NetName=PB8/SCL|NetColor=$00FF6EFF
-Net6=NetName=GND|NetColor=$0000BE00
+Net6=NetName=VS|NetColor=$006E6EFF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
